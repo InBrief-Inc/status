@@ -1,7 +1,7 @@
 url: https://api.inbrief.sh/api/health
-status: down
-code: 503
-responseTime: 168
-lastUpdated: 2026-08-20T16:13:07.227Z
+status: up
+code: 200
+responseTime: 43422
+lastUpdated: 2026-08-20T17:16:00.415Z
 startTime: 2026-02-07T22:46:18.524Z
 generator: Upptime <https://github.com/upptime/upptime>
