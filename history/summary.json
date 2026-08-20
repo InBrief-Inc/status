@@ -22,17 +22,17 @@
     "url": "https://api.inbrief.sh/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.inbrief.sh.ico",
     "slug": "in-brief-api",
-    "status": "down",
-    "uptime": "97.70%",
-    "uptimeDay": "97.21%",
-    "uptimeWeek": "99.60%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "97.70%",
-    "time": 12524,
-    "timeDay": 10700,
-    "timeWeek": 9699,
-    "timeMonth": 16516,
-    "timeYear": 12524,
+    "status": "up",
+    "uptime": "97.67%",
+    "uptimeDay": "92.85%",
+    "uptimeWeek": "98.98%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "97.67%",
+    "time": 12627,
+    "timeDay": 17244,
+    "timeWeek": 12765,
+    "timeMonth": 17285,
+    "timeYear": 12627,
     "dailyMinutesDown": {
       "2026-02-09": 100,
       "2026-02-10": 179,
@@ -83,7 +83,7 @@
       "2026-04-26": 42,
       "2026-04-28": 299,
       "2026-05-02": 220,
-      "2026-08-20": 40
+      "2026-08-20": 103
     }
   },
   {
